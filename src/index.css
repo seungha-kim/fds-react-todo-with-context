@@ -1,0 +1,21 @@
+.todo-item__checkbox {
+  margin-right: 0.5rem;
+}
+
+.todo-item--complete {
+  text-decoration: line-through;
+}
+
+.todo-item__delete {
+  vertical-align: middle;
+  margin-left: 0.5rem;
+}
+
+.todo-form__fieldset {
+  border: none;
+}
+
+.nav-bar {
+  display: flex;
+  justify-content: space-between;
+}
